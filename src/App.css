@@ -1,0 +1,19 @@
+
+.App{
+  align-content: center;
+  margin: 50px;
+}
+.col {
+  text-align: center;
+}
+
+.card{
+  width: 80vh;
+}
+
+#result{
+  width: 160vh;
+}
+button{
+  margin: 10px;
+}
